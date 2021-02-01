@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-Type" content="text/html; chartset=utf-8">
+<title>산과 벗하는 산악회</title>
+</head>
+<body>
+<header id ='top'>
+	<h1>산과 벗하는 산악회</h1>
+	<h3>주말 산행 뿐만 아니라 주중 산행, 무박 산행도 합니다</h3>
+</header>
+<nav id="mainNav">
+	<ul>
+		<li><a href="#">산행예절</a></li>
+		<li><a href="#">산행준비</a></li>
+		<li><a href="#">산행종류</a></li>
+		<li><a href="#">산행요령</a></li>
+		<li><a href="#">등산식량</a></li>
+	</ul>
+</nav>
+<section id="content">
+	<header>
+		<h3>산행예절</h3>
+	</header>
+	<article id="manner">
+		<h4>인사</h4>
+		<p>인사를...하면 된다.  </p>
+	</article>
+	<article id="manner">
+		<h4>추월을 해야 할땐 먼저 양해를 구하자.</h4>
+		<p>좁은....추월을 하자.</p>
+	</article>
+	<article id="manner">
+		<h4>올라오는...하자.</h4>
+		<P>산에서... 양보한다.</p>
+	</article>
+</section>
+</body>
+</html>
